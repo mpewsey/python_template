@@ -1,0 +1,4 @@
+[run]
+source = {{ python_template }}
+omit =
+    setup.py
